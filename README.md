@@ -13,7 +13,7 @@
 ```python
 Name = "its-me-leo"
 who_i_am == ['Developer','Coder','Btech-Student','Noobie']
-Age = "19"
+Age = "20"
 Country = "🇮🇳"
 ```
 
@@ -56,7 +56,7 @@ Follow Me On:
 <a href="https://github.com/its-leo-bitch"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/leo_parmigiana"><img src="https://img.shields.io/badge/Instagram-leo_parmigiana-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/albert_3instein"><img src="https://img.shields.io/badge/Instagram-albert_3instein-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 
 </details>
